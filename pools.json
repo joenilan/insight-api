@@ -1,7 +1,7 @@
 [
    {
         "poolName": "Nanopool",
-        "url": "https://rvn.nanopool.org",
+        "url": "https://mynt.nanopool.org",
         "searchStrings": [
                 "RRL5mMNeox75MGbqnfUZEhn3RferuvFGcy"
         ]
@@ -57,14 +57,14 @@
     },
     {
     	"poolName": "Pyroxene (theMINE)",
-    	"url": "http://pyroxene.chainworksindustries.com/rvn/",
+    	"url": "http://pyroxene.chainworksindustries.com/mynt/",
     	"searchStrings": [
     		"RRwTFeF1JGcZewN7vqSGX4dbQWCubAGFSr"
     	]
     },
     {
     	"poolName": "Elitehash",
-    	"url": "http://rvn.elitehash.net/",
+    	"url": "http://mynt.elitehash.net/",
     	"searchStrings": [
     		"RAs1CD7862EJh4MFCbtDYvDJVGEewd6iti"
     	]
@@ -184,8 +184,8 @@
     	]
     },
     {
-    	"poolName": "RavenCoin.World",
-    	"url": "https://pool.ravencoin.world/",
+    	"poolName": "MyntCoin.World",
+    	"url": "https://pool.mynt.world/",
     	"searchStrings": [
     		"RQcHE3HRRbT3KwFnvpzDfj9tpgUPwQ6BeB",
 		"RSos8DUfQJES9CkhLN42NpydacdrAu6RRk",
@@ -256,7 +256,7 @@
     },
     {
     	"poolName": "COINBLOCKERS",
-    	"url": "https://rvn.coinblockers.com/",
+    	"url": "https://mynt.coinblockers.com/",
     	"searchStrings": [
     		"RK4GiCpC6nvX2sswH3pre1nwbng8S8ViCn"
     	]
@@ -358,8 +358,8 @@
   	]
     },
     {
-	"poolName": "RavenMiner",
-	"url": "https://ravenminer.com/",
+	"poolName": "MyntMiner",
+	"url": "https://myntminer.com/",
 	"searchStrings": [
 		"RNJMLCLiss7hf23rZSq9BzhoQ94H5EDQTy",
 		"RFtHhp8S43JDnzAJz9GDvups6pdJjBA7nM",
@@ -382,15 +382,15 @@
 	]
     },
     {
-	"poolName": "RavenMiner EU",
-	"url": "https://eu.ravenminer.com",
+	"poolName": "MyntMiner EU",
+	"url": "https://eu.myntminer.com",
 	"searchStrings": [
 		"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6"
 	]
     },
     {
 	"poolName": "Suprnova",
-	"url": "https://rvn.suprnova.cc/",
+	"url": "https://mynt.suprnova.cc/",
 	"searchStrings": [
 		"RM6RmrdYDVTckufVFYyZHHM2av4r5LKjji"
 	]
